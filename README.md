@@ -56,7 +56,6 @@ streamlit run app.py --server.port 8502
 
 The project uses a realistic synthetic dataset for an ecommerce company running paid and owned marketing campaigns. It calculates CAC, ROAS, ROI, conversion efficiency, and gross profit by campaign and channel, then recommends which campaigns deserve more budget and which should be paused.
 
-## Resume Talking Point
 
-Built a Python marketing analytics project to evaluate campaign CAC, ROAS, ROI, channel efficiency, and budget reallocation opportunities, identifying campaigns to scale, optimize, or stop.
+
 
